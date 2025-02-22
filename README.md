@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vicky Kumar
 <div align="center">
-  <img src="[profile-image-url-here](https://avatars.githubusercontent.com/u/200359642?v=4)" alt="Vicky Kumar" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/200359642?v=4" alt="Vicky Kumar" width="200"/>
   
   ### Full Stack Developer
   
