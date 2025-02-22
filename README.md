@@ -11,26 +11,60 @@
 ## 🚀 About Me
 > Self-independent, reliable and friendly individual who works hard to achieve his goals. Adaptable quickly, and organized well, interested in learning the latest web & software technologies quickly. Able to work well in teams as well as individually. My future goal is to become a senior full-stack developer.
 
-## 💼 Work Experience
-- 💻 **Software Developer** at FINNDIT (Jun 2022 - Present)
-  - Remotely Lead the Creation of 5 WordPress websites
-  - Improve existing websites and add new features
+## 💼 Professional Experience
 
-- 🔧 **Software Engineer** at TECHLIVE-SOLUTIONS (Jan 2022 - Jun 2022)
-  - Six-month internship in MERN Full Stack Developer
+<div align="center">
+  
+  ### Current Role
+  
+  ![FINNDIT](https://img.shields.io/badge/FINNDIT-Software%20Developer-00C7B7?style=for-the-badge)
+  
+  #### Jun 2022 - Present
+  
+</div>
 
-## 🎓 Education
-- **B.C.A** (2017-2021)
-  - H.D Jain College, Ara (affiliated with V.K.S University)
-  - Aggregate: 72% marks
+> **Key Responsibilities & Achievements:**
+> - 🚀 Led remote development of 5 WordPress websites from concept to deployment
+> - 🔄 Enhanced existing website functionalities and features
+> - 💡 Implemented responsive design principles across all projects
+> - 🛠️ Utilized WordPress, PHP, and custom theme development
 
-- **I.Sc (MATH)** (2014-2016)
-  - J.J College, Ara (affiliated with BSEB Patna)
-  - Aggregate: 63% marks
+<div align="center">
+  
+  ### Previous Role
+  
+  ![TECHLIVE](https://img.shields.io/badge/TECHLIVE--SOLUTIONS-Software%20Engineer-FF6B6B?style=for-the-badge)
+  
+  #### Jan 2022 - Jun 2022
+  
+</div>
 
-- **C.B.S.E DELHI** (2013-2014)
-  - D.K Carmel high school, Ara
-  - Aggregate: 70% marks
+> **Internship Highlights:**
+> - 💻 Gained hands-on experience with MERN Stack development
+> - 🌐 Worked on real-world web applications
+> - 📚 Learned industry best practices and coding standards
+> - 🤝 Collaborated with senior developers on various projects
+
+## 🎓 Education Journey
+
+<div align="center">
+  
+  ### Bachelor of Computer Applications (BCA)
+  ![University](https://img.shields.io/badge/V.K.S%20University-H.D%20Jain%20College-4285F4?style=for-the-badge)
+  #### 2017 - 2021
+  > 🎯 Secured **72% aggregate** marks
+  
+  ### Intermediate of Science (I.Sc MATH)
+  ![Board](https://img.shields.io/badge/BSEB%20Patna-J.J%20College-34A853?style=for-the-badge)
+  #### 2014 - 2016
+  > 📊 Achieved **63% aggregate** marks
+  
+  ### High School
+  ![Board](https://img.shields.io/badge/C.B.S.E%20Delhi-D.K%20Carmel-EA4335?style=for-the-badge)
+  #### 2013 - 2014
+  > 📈 Scored **70% aggregate** marks
+  
+</div>
 
 ## 🏆 Achievements
 - **Outstanding Performer 2022**
